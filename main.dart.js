@@ -35920,7 +35920,7 @@ A.qd(s).lE(r)}else{s=this.c
 if(a==="Dexamethasone"){s.toString
 r=A.aka(new A.ahe(),q,t.z)
 A.qd(s).lE(r)}else s.am(t.Pu).f.U5(A.apu(q,q,q,B.as,q,B.V,q,A.bP("Screen for "+a+" not available yet.",q,q,q,q,q,q),q,B.Dj,q,q,q,q,q,q,q,q,q))}},
-J(a){var s,r=this,q=null,p=t.E,o=A.ajg(q,q,new A.cg(B.Dx,A.uS(A.b([A.bP("WELCOME",q,q,q,A.bt(q,q,B.i,q,q,q,q,q,q,q,q,22,q,q,B.c5,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.bU(q,9,q),A.bP("This project is intended to ease dose calculation for pediatrics.\nIf you encounter any issue, please comment in the post link on Tel Channel: @PandaRxxx",q,q,q,A.bt(q,q,B.l,q,q,q,q,q,q,q,q,16,q,q,B.c5,q,q,!0,q,q,q,q,q,q,q,q),B.ho,q)],p),B.bk,B.bn,B.cx),q),q),n=A.bt(q,q,B.i,q,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),m=A.bt(q,q,B.cT,q,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q)
+J(a){var s,r=this,q=null,p=t.E,o=A.ajg(q,q,new A.cg(B.Dx,A.uS(A.b([A.bP("WELCOME",q,q,q,A.bt(q,q,B.i,q,q,q,q,q,q,q,q,22,q,q,B.c5,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.bU(q,3,q),A.bP("This project is intended to ease dose calculation for pediatrics.\nIf you encounter any issue, please comment in the post link on Tel Channel: @PandaRxxx",q,q,q,A.bt(q,q,B.l,q,q,q,q,q,q,q,q,16,q,q,B.c5,q,q,!0,q,q,q,q,q,q,q,q),B.ho,q)],p),B.bk,B.bn,B.cx),q),q),n=A.bt(q,q,B.i,q,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),m=A.bt(q,q,B.cT,q,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q)
 n=A.akH(r.d,A.GO(q,new A.eq(4,A.hS(10),new A.aR(B.as,1,B.u,-1)),q,q,q,q,q,q,!0,q,q,q,q,q,q,B.dN,!0,q,q,q,q,new A.eq(4,A.hS(10),new A.aR(B.as,2,B.u,-1)),q,q,q,q,q,q,q,q,m,"Search medication...",q,q,q,q,q,q,q,q,q,!0,!0,q,A.ajX(B.E8,B.i,q),q,q,q,q,q,q,q,q,q,q,q),q,r.gaio(),n)
 m=A.bU(q,15,q)
 s=r.f.length
