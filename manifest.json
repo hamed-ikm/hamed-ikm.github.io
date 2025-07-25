@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#000000",
-    "description": "Dose Calculator for pediatrics",
+    "description": "A Dose Calculator for pediatrics",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
